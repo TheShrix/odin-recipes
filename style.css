@@ -1,0 +1,21 @@
+h1 {
+    color: yellow;
+    font-size: 125px;
+    text-align: center;
+}
+
+#link1 {
+    font-size: 65px;
+}
+
+#link2 {
+    font-size: 65px;
+}
+
+#link3 {
+    font-size: 65px;
+}
+
+html {
+    background-color: burlywood;
+}
