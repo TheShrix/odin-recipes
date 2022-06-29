@@ -1,0 +1,28 @@
+img {
+    height: 350px;
+    width: 400px;
+}
+
+h1 {
+    font-size: 75px;
+    color: aqua;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 45px;
+    color: aqua;
+}
+
+h4 {
+    color: yellow;
+    font-size: 20px;
+}
+
+ul, ol, li {
+    background-color: aqua;
+}
+
+html {
+    background-color: brown;
+}
